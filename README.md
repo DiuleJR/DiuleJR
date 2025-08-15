@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👨🏻‍💻 Diule Junior
 
-<!--
-**DiuleJR/DiuleJR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Ciência da Computação`**
 
-Here are some ideas to get you started:
+## 👋 Olá!  
+Sou estudante de ciência da computação, atualmente focado em **Python** e **Java**.  
+Ainda não sou desenvolvedor full stack, mas estou no caminho 🚀  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📚 Atualmente aprendendo:
+- Desenvolvimento backend com **Python (discord.py, FastAPI)**
+- Fundamentos de **Java**
+- Conceitos de **HTML, CSS e JavaScript**
+- Banco de dados (MongoDB)
+
+### 💡 Objetivo:
+Me tornar desenvolvedor **full stack** e criar aplicações completas e úteis.  
+
+---
+📌 Aqui no meu GitHub você vai encontrar meus projetos de estudo, como bots para Discord, pequenos sistemas e experimentos com automação.
